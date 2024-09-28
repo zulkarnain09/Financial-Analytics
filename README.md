@@ -17,7 +17,7 @@ Pandas
 Matplotlib
 Seaborn
 Usage
-Clone the repository using git clone https://github.com/your-username/financial-analytics.git
+Clone the repository using git clone https://github.com/zulkarnain09/Financial-Analytics
 Install the required libraries using pip install pandas matplotlib seaborn
 Run the script using python finance.py
 License
